@@ -1,0 +1,4 @@
+git branch -m main B2BContracts
+git fetch origin
+git branch -u origin/B2BContracts B2BContracts
+git remote set-head origin -a
